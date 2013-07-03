@@ -1,0 +1,8 @@
+## Interface: 50100
+## Title: |cff0062ffsh|rNamePlates
+## Notes: Custom and light weight nameplates 
+## Author: Shaykh - special thanks to: Tekkub, Cael, and many others!
+
+config.lua
+shNameplates.lua
+
